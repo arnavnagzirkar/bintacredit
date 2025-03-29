@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cbe9f639-cc0e-428a-8f9c-309deefe4ae5"
+      }
+    },
+    "owner": "arnav.n"
   }
 }
